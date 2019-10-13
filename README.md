@@ -1,0 +1,10 @@
+# ADM_HW1
+
+
+Salwa Afrah 
+
+### H3 1st homework of ADM
+Python hackerrank challenges. 
+This  repository contains two things :
+1- script.py contains the code for the completed challenges 
+2- screenShotOf Challenges 
