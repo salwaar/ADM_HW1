@@ -1,7 +1,6 @@
 # ADM_HW1
 
 
-Salwa Afrah 
 
 ### 1st homework of ADM
 Python hackerrank challenges. 
